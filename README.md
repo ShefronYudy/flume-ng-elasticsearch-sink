@@ -10,7 +10,7 @@ Support Elasticsearch 2.3.3 API
 
 2. copy new built jar to flume lib folder and remove old one
 
-3. qadd ext supported jars require by elasticsearch 2.3.3 api, and remove others not required or old.
+3. add ext supported jars require by elasticsearch 2.3.3 api, and remove others not required or old.
 
    ```
    To add: 
