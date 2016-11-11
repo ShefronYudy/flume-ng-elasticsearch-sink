@@ -4,6 +4,10 @@
 
 Support Elasticsearch 2.3.3 API
 
+#### Why
+
+As you know the latest flume still uses elasticsearch 0.90.1 jar which are very old. In my new porject, we are using ES 2.3.3. So I update the existing flume es sink source to support es 2.3.3 jar.
+
 #### How to use
 
 1. mvn clean install -Dmaven.test.skip=true
